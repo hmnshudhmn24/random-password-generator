@@ -14,7 +14,4 @@
 
 ## How to Use
 1. Click the **Generate Password** button to create a strong password.  
-2. Click the **Copy** button to copy the password to the clipboard.  
-
-## Live Demo
-[Live Demo Link](#) (Add your live link here)
+2. Click the **Copy** button to copy the password to the clipboard.
